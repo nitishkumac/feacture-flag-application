@@ -1,0 +1,6 @@
+@feacture_flag_application_HostAddress = http://localhost:5172
+
+GET {{feacture_flag_application_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
